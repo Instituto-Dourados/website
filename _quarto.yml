@@ -20,12 +20,12 @@ format:
     include-in-header: header.html
     theme: 
       light:
-        - theme-light.scss
         - styles.scss
+        - theme-light.scss
       dark:
         - darkly 
-        - theme-dark.scss
         - styles.scss
+        - theme-dark.scss
     fontsize: 1.1em
     linestretch: 1.4
     number-depth: 3

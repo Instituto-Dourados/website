@@ -6,15 +6,14 @@ editor:
     wrap: 80
 ---
 
-
 ::: {#index-subtitle}
 Indigenous Health and Social Dynamics in Vulnerable Communities
 :::
 
-*Projeto* (Project) *Dourados*—pronounced *doe-RAH-doose*, meaning
-*golden*—began when researchers from South and North America met at the
+*Projeto Dourados* began when researchers from South and North America met at the
 Universidade Federal de Grande Dourados (UFGD), Mato Grosso do Sul,
-Brazil.
+Brazil. Projeto Dourados literally means "The Golden Project" in English,
+pronounced *doe-RAH-doose*. *Dourados*, then, is an adjective, meaning *golden*.
 
 We recognized the need for new efforts to bring together epidemiologists
 and social scientists, and to connect researchers from Brazil and the

@@ -9,10 +9,14 @@ $font-weight-base: 200 !default;
 
 
 p {
-  line-height: 1.55 !important;
-  font-weight: 300 !important;
+  line-height: 1.55;
+  font-weight: 350;
 }
 
 code, pre {
-  font-weight: 300; // or 300, or 400
+  font-weight: 350; // or 300, or 400
+}
+
+div#index-subtitle p {
+  font-weight: 500;
 }
