@@ -6,7 +6,9 @@ project:
     - contato.vcf
 
 website:
-  title: "Projeto Dourados"
+  title: "Instituto Dourados"
+
+  favicon: sticker.jpg
 
 languages:
   pt:
