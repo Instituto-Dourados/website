@@ -7,7 +7,7 @@ lang: pt
 
 **Conexão com a comunidade e pesquisa avançada, com impacto real em saúde pública**
 
-O Projeto Dourados oferece oportunidades para estudantes motivados que desejam
+O Instituto Dourados oferece oportunidades para estudantes motivados que desejam
 contribuir para uma iniciativa interdisciplinar de pesquisa e extensão na
 interface entre ciências sociais, epidemiologia, saúde pública indígena e
 colaboração internacional entre o Brasil e os Estados Unidos.
@@ -44,7 +44,8 @@ comunidade poderão:
 - Estudar a história da Reserva Indígena de Dourados e do sistema de reservas
   indígenas no Brasil.
 - Divulgar histórias e resultados em redes sociais, textos e vídeos
-  documentais, utilizando os quatro idiomas do Projeto: Guarani, Terena,
+  documentais, utilizando os quatro idiomas, inclusive de dois idiomas Indígenas
+  faladas na Reserva Indígena de Dourados: Guarani, Terena,
   Português e Inglês.
 - Comparar contextos de saúde pública indígena em diferentes estados brasileiros,
   incluindo:
@@ -81,11 +82,11 @@ Estudantes com interesse em dados, modelagem ou computação poderão:
 
 ## Receba Atualizações ✌️ 🇧🇷 🇺🇸 🔬👩‍💻 
 
-As oportunidades do projeto serão anunciadas nesta página à medida que se
+As oportunidades no Instituto Dourados serão anunciadas nesta página à medida que se
 tornarem disponíveis.
 
 Se desejar receber atualizações por e-mail, preencha o breve formulário abaixo.
-Você também será automaticamente inscrito(a) na newsletter do Projeto Dourados
+Você também será automaticamente inscrito(a) na newsletter do Instituto Dourados
 para receber notícias e atualizações gerais, a menos que opte por não participar
 desmarcando a opção “Inscrever-se na Newsletter”.
 
