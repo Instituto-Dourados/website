@@ -1,1 +1,1 @@
-Sitemap: https://projeto-dourados.org/sitemap.xml
+Sitemap: https://institutodourados.org/sitemap.xml
