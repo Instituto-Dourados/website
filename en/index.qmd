@@ -111,15 +111,26 @@ working with us, or would like more information, please contact us:
 
 ### Our Team
 
-#### Project Leads
+
+#### Directors
+
+<!-- {{< include bios/IzabelaRezende.qmd >}} -->
+
+{{< include bios/MatthewTurner.qmd >}}
+
+
+#### Interns
+
+{{< include bios/MarianaAlcantara.qmd >}}
+
+
+#### Brazilian Faculty Leadership
+
 
 -   Simone Simionatto — UFGD •
     [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
 -   Matheus de Carvalho Hernandez — UFGD •
     [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
--   Izabela Maurício de Rezende — Stanford University •
-    [LinkedIn](https://www.linkedin.com/in/izabela-rezende)
--   Matthew Turner — Stanford University • [Website](https://mat.phd)
 
 #### Student Leaders and Contributors
 

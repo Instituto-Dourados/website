@@ -31,6 +31,28 @@ do Instituto Dourados.
 
 **O outro grupo irá avançar pesquisas interdisciplinares sobre como o comportamento social molda a disseminação de doenças**, contribuindo para uma melhor preparação para pandemias e a saúde pública em Dourados e na Reserva Indígena.
 
+
+### Nossa Equipe
+
+#### Os Diretadores
+
+{{< include /pt/bios/IzabelaRezende.qmd >}}
+
+
+#### Coordenação do Instituto
+
+-   Simone Simionatto — UFGD • [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
+-   Matheus de Carvalho Hernandez — UFGD • [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
+<!-- -   Izabela Maurício de Rezende — Stanford University • [LinkedIn](https://www.linkedin.com/in/izabela-rezende)
+-   Matthew Turner — Stanford University • [Website](https://mat.phd) -->
+
+#### Estudantes Líderes e Colaboradores
+
+-   Laís Albuquerque de Oliveira — UFGD • [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
+-   Caio Gustavo Simonelli — UFGD • [CNPq Online CV](http://lattes.cnpq.br/5480881995742161)
+
+### Mais Informações e Atualizações
+
 - ::: large-link
 Saiba mais como contribuir aqui: [Oportunidades](/pt/oportunidades.qmd).
 :::
@@ -71,19 +93,6 @@ em colaborar ou gostaria de mais informações, entre em contato pelo e-mail:
 -   **4º trimestre de 2026:** Síntese dos produtos do projeto; submissão de manuscritos; avaliação das próximas fases de colaboração e financiamento.
 -   **2027 em diante:** Sustentação e expansão do programa de intercâmbio conforme surgirem oportunidades.
 
-### Nossa Equipe
-
-#### Coordenação do Instituto
-
--   Simone Simionatto — UFGD • [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
--   Matheus de Carvalho Hernandez — UFGD • [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
--   Izabela Maurício de Rezende — Stanford University • [LinkedIn](https://www.linkedin.com/in/izabela-rezende)
--   Matthew Turner — Stanford University • [Website](https://mat.phd)
-
-#### Estudantes Líderes e Colaboradores
-
--   Laís Albuquerque de Oliveira — UFGD • [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
--   Caio Gustavo Simonelli — UFGD • [CNPq Online CV](http://lattes.cnpq.br/5480881995742161)
 
 ### Apoio Fundacional
 
