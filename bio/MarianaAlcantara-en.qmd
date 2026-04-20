@@ -1,12 +1,14 @@
-![Mariana Barreto Alcantara](photo.png){.float-left height=250px}
+<h4 class=name>Mariana Barreto Alcantara - Junior Research Intern</h4>
+
+![](/bio/foto/MarianaAlcantara.png){.float-left height=250px}
 
 Mariana is a first-year student at the University of California, Berkeley,
 double majoring in Neuroscience and Business Administration. Originally from
-Salvador, Bahia, Brazil, Mariana spent the past four years in the United States.
-She is passionate about applying the knowledge and skills gained working with
-Instituto Dourados to strengthen Brazilian public health. Driven by her
-Brazilian roots and interdisciplinary background, she is committed to bridging
-scientific research and community impact in Brazil.
+Salvador, in the state of Bahia, Brazil, Mariana spent the past four years in
+the United States. She is passionate about applying the knowledge and skills
+gained working with Instituto Dourados to strengthen Brazilian public health.
+Driven by her Brazilian roots and interdisciplinary background, she is committed
+to bridging scientific research and community impact in Brazil.
 
 As a Junior Research Intern, Mariana contributes to public health communications
 aimed at educating communities on healthy living practices and the role of

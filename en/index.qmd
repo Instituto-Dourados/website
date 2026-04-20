@@ -30,7 +30,7 @@ In response, we developed a new educational and research exchange
 program to connect South and North American scientists, beginning with
 our two institutions, UFGD and Stanford University.
 
-### Our Project
+## Our Project
 
 The project builds on public health partnerships and research led by
 Prof. Simone Simionatto, her students, and colleagues at UFGD and
@@ -68,7 +68,7 @@ Loading…
 
 </iframe>
 
-### More on Project Goals
+### Project Goals
 
 We have two primary short-term goals for project outputs over the next
 few years:
@@ -109,22 +109,28 @@ working with us, or would like more information, please contact us:
 -   **2027 and beyond:** Sustain and expand the exchange program as
     opportunities allow.
 
-### Our Team
+## Our Team
 
 
-#### Directors
+### Founders
 
-<!-- {{< include bios/IzabelaRezende.qmd >}} -->
-
-<!-- {{< include /en/bios/MatthewTurner.qmd >}} -->
-
-
-#### Interns
-
-<!-- {{< include /bios/en/MarianaAlcantara.qmd >}} -->
+Our two founders, Drs. Izabela Mauricio Rezende and Matthew Adam Turner, first
+met as Pandemic Preparedness Hub Postdoctoral Fellows ...
 
 
-#### Brazilian Faculty Leadership
+{{< include /bio/IzabelaRezende-en.qmd >}}
+
+{{< include /bio/MatthewTurner-en.qmd >}}
+
+
+### Interns
+
+Our interns are the lifeblood of...
+
+{{< include /bio/MarianaAlcantara-en.qmd >}}
+
+
+### Brazilian Faculty Leadership
 
 
 -   Simone Simionatto — UFGD •
@@ -132,22 +138,20 @@ working with us, or would like more information, please contact us:
 -   Matheus de Carvalho Hernandez — UFGD •
     [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
 
-#### Student Leaders and Contributors
+### Student Leaders and Contributors
 
 -   Laís Albuquerque de Oliveira — UFGD •
     [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
 -   Caio Gustavo Simonelli — UFGD • [CNPq Online
     CV](http://lattes.cnpq.br/5480881995742161)
 
-### Foundational Support
+## Foundational Support
 
 Instituto Dourados was made possible through the support of Mrs. Jill
 Freidenrich, whose funding provided fellowships and research support for
-Rezende and Turner at the Pandemic Preparedness Hub at Stanford
-Medicine. This support enabled Rezende to initiate collaboration with
-Simionatto, with Turner joining soon after. It quickly became clear that
-this project was a strong fit for advancing the practical use of social
-science in epidemiology.
+Drs. Rezende and Turner at the Pandemic Preparedness Hub at Stanford
+Medicine. This support enabled Dr. Rezende to initiate collaboration with
+Prof. Simionatto, which Dr. Turner then joined. 
 
 <br>
 
@@ -155,4 +159,6 @@ science in epidemiology.
 Turner** at the Dourados Indigenous Reserve Hospital—the sign above us
 explains that the government health program SUS operates the hosopital to
 provide completely free health services to anyone who wants them, 
-and that all visitors have the right to quality care.](/imagens/clipboard-3055226108.png){fig-align="center" .lightbox}
+and that all visitors have the right to quality
+care.](/imagens/clipboard-3055226108.png){fig-align="center" .lightbox
+width=420px}

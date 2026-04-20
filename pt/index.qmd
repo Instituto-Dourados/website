@@ -36,8 +36,13 @@ do Instituto Dourados.
 
 #### Os Diretadores
 
-{{< include /_bios/IzabelaRezende-pt.qmd >}}
+{{< include /bio/IzabelaRezende-pt.qmd >}}
 
+<!-- {{< include /bios/MatthewTurner-pt.qmd >}} -->
+
+#### Os Estagiários
+
+{{< include /bio/MarianaAlcantara-pt.qmd}}
 
 #### Coordenação do Instituto
 

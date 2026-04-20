@@ -1,9 +1,7 @@
+<h4 class=name>Dr. Izabela Mauricio de Rezende - Drietor de Inovação</h4>
+<h5 class=title>Diretor de Inovação</h5>
 
-
-<h3 class=name> Dr. Izabela Mauricio de Rezende</h3>
-<h4 class=title>Co-founder and Director of Innovation</h4>
-
-![](/imagens/bio-photos/IzabelaRezende.JPEG){.float-left height=210px} 
+![](/bio/foto/IzabelaRezende.jpeg){.float-left height=210px} 
 
 Izabela é virologista e Pesquisadora Científica na Universidade de Stanford, com
 mais de seis anos de experiência na liderança de estudos interdisciplinares em
