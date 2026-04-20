@@ -116,12 +116,12 @@ working with us, or would like more information, please contact us:
 
 <!-- {{< include bios/IzabelaRezende.qmd >}} -->
 
-{{< include bios/MatthewTurner.qmd >}}
+<!-- {{< include /en/bios/MatthewTurner.qmd >}} -->
 
 
 #### Interns
 
-{{< include bios/MarianaAlcantara.qmd >}}
+<!-- {{< include /bios/en/MarianaAlcantara.qmd >}} -->
 
 
 #### Brazilian Faculty Leadership

@@ -36,7 +36,7 @@ do Instituto Dourados.
 
 #### Os Diretadores
 
-{{< include /pt/bios/IzabelaRezende.qmd >}}
+{{< include /_bios/IzabelaRezende-pt.qmd >}}
 
 
 #### Coordenação do Instituto
