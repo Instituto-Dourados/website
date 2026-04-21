@@ -1,0 +1,27 @@
+<h4 class=name> Dr. Matthew Adam Turner - Diretor de Infraestrutura</h4>
+
+![](/bio/foto/MatthewTurner.png){.float-left width=280px}
+
+Matthew é um cientista social que acelera a pesquisa translacional voltada ao
+planejamento de sociedades mais sustentáveis. Sustentabilidade inclui saúde
+pública: é preciso estar saudável para participar do processo de construção de
+um mundo melhor.
+
+Matthew iniciou este programa de pesquisa translacional como bolsista de
+pós-doutorado no Pandemic Preparedness Hub (Centro de Preparação para Pandemias)
+na Stanford University, seguindo os interesses da cofundadora do Instituto, Dra.
+Iza Rezende, que já atuava em Dourados.
+
+No Instituto, Matthew lidera o esforço de sistematizar a pesquisa de Izabela, de
+nossos parceiros em Dourados e dele próprio, incorporando novas ferramentas
+prontas para avançar a saúde pública na Reserva Indígena de Dourados e em outros
+contextos onde tomadores de decisão precisam alocar financiamento para maximizar
+impacto.
+
+O sistema que desenvolvemos permite avaliar intervenções alternativas por meio
+de “gêmeos digitais”, nos quais informações e doenças se propagam em populações
+simuladas com padrões de conectividade que representam contextos reais.
+
+Matthew possui doutorado em Ciências Cognitivas e Informacionais pela University
+of California, Merced, além de mestrado em Física Aplicada pela Rice University,
+em Houston, Texas, e graduação pela Syracuse University, no estado de Nova York.

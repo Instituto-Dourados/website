@@ -8,7 +8,7 @@ project:
 website:
   title: "Instituto Dourados"
 
-  favicon: sticker.jpg
+  favicon: sticker-favicon.jpg
 
 languages:
   pt:

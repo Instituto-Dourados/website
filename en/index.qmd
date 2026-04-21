@@ -30,7 +30,7 @@ In response, we developed a new educational and research exchange
 program to connect South and North American scientists, beginning with
 our two institutions, UFGD and Stanford University.
 
-## Our Project
+## Our Institute
 
 The project builds on public health partnerships and research led by
 Prof. Simone Simionatto, her students, and colleagues at UFGD and
@@ -50,6 +50,9 @@ translations of this website and other Instituto Dourados materials.
 behavior shapes disease spread**, contributing to improved pandemic
 preparedness and public health in Dourados and the surrounding
 Indigenous Reserve.
+
+
+### More Information and Updates
 
 - ::: large-link
 Learn more about how to participate here:
@@ -109,32 +112,31 @@ working with us, or would like more information, please contact us:
 -   **2027 and beyond:** Sustain and expand the exchange program as
     opportunities allow.
 
+
+
 ## Our Team
 
+Our team is lean, founder-led, and execution-focused. We integrate research,
+education, and field deployment into a single pipeline, enabling rapid
+translation from theory to practice. Partnerships and internships expand
+capacity while keeping the work grounded in real-world impact. Interns
+contribute immediately, rapidly developing transferable skills and a global
+perspective.
 
-### Founder-Directors
 
-The founders of Instituto Dourados are also currently its directors. They began
-working together as the two inaugural postdoctoral fellows
-to participate in the [Pandemic Preparedness Hub at Stanford
-Medicine](https://pandemichub.stanford.edu).
+### Founding Directors
 
-They discovered they shared a
-common interest in Indigenous public health, but with vastly different technical
-approaches. 
+Founders of Instituto Dourados and current directors, they first collaborated as
+inaugural postdoctoral fellows at the Pandemic Preparedness Hub at Stanford
+Medicine. Recognizing a shared commitment to Indigenous public health—shaped by
+distinct technical approaches—they converged on a model that is community-based,
+multidisciplinary, and multilingual. Instituto Dourados was established to
+cultivate a critical mass of researchers and policymakers equipped to address
+the biological and social complexity of public health.
 
-Together they decided that public health for
-marginalized communities needs to be aggressively community-based,
-multidisciplinary, and multilingual. 
+{{< include /bio/_IzabelaRezende-en.qmd >}}
 
-They founded Instituto Dourados
-to recruit, educate, and initiate a critical mass of researchers and policy
-makers who understand the biological and social complexity of promoting public
-health.
-
-{{< include /bio/IzabelaRezende-en.qmd >}}
-
-{{< include /bio/MatthewTurner-en.qmd >}}
+{{< include /bio/_MatthewTurner-en.qmd >}}
 
 
 ### Innovation and Research Interns
@@ -144,11 +146,10 @@ public health for Dourados, Brazil, and beyond. Innovation Interns focus on
 expanding access to our educational public health resources for residents of
 Indigenous Reserves. Research Interns help create and evaluate new methods,
 technologies, and knowledge while learning the latest science and techniques
-from the Directors and [associted faculty
-leaders](#brazilian-faculty-leadership).
+from the Directors and faculty leaders.
 
 
-{{< include /bio/MarianaAlcantara-en.qmd >}}
+{{< include /bio/_MarianaAlcantara-en.qmd >}}
 
 
 ### Brazilian Faculty Leadership

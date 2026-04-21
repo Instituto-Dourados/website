@@ -486,11 +486,22 @@ div.large-link {
   color: #b0c7c4;
 }
 
-// Float the biographical photo to the left with word wrapping.
+// Directive for text wrapping photo on left
 .float-left {
+
+  // floating element anchored to the left
   float: left;
-  margin-left: 1.0rem;
-  margin-right: 1.0em;
-  margin-top: 0.75rem;
-  margin-bottom: 1.5em;
+
+  // give space between bio and foto
+  margin-right: 2.0em;
+
+  // resize automatically
+  display: block;
+  max-width:200px;
+  width: auto;
+
+  // 
+  /* width: 300px; */
+  /* margin-top: 0.75rem; */
+  /* margin-bottom: 1.5em; */
 }

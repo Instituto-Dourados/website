@@ -1,0 +1,20 @@
+<h4 class=name>Mariana Barreto Alcantara - Estagiária de Pesquisa Júnior</h4>
+
+
+![](/bio/foto/MarianaAlcantara.png){.float-left}
+Mariana Barreto Alcantara está no primeiro ano de graduação na Universidade da
+Califórnia, Berkeley, onde estuda neurociência e administração. É de Salvador,
+Bahia, e passou os últimos quatro anos nos Estados Unidos. Sua missão é aplicar
+os conhecimentos e habilidades adquiridos com o Instituto Dourados para
+fortalecer a saúde pública brasileira.
+
+Como Estagiária de Pesquisa Júnior, contribui com comunicações em saúde pública
+voltadas para a educação de comunidades sobre práticas de vida saudável e o
+papel da pesquisa científica na promoção do bem-estar. Seu trabalho também
+abrange as ciências sociais e a epidemiologia computacional, onde auxilia no
+desenvolvimento de sistemas para visualização de dados de saúde pública e na
+identificação dos fatores sociais que mais influenciam a disseminação de doenças
+em diferentes contextos.
+
+Motivada pelas suas raízes e pela sua formação interdisciplinar, tem como
+compromisso conectar a pesquisa científica ao impacto comunitário no Brasil.

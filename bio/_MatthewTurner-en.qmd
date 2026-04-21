@@ -1,0 +1,22 @@
+<h4 class=name> Dr. Matthew Adam Turner - Director of Infrastructure</h4>
+
+![](/bio/foto/MatthewTurner.png){.float-left width=120px style="margin-top:2rem;
+margin-bottom:3rem;"}
+
+Matthew is a quantitative social scientist accelerating translational research
+to make sustainable societies the more attractive and viable choice.
+Sustainability includes public health: a healthy population is a prerequisite
+for participation in sustainable systems. He began building this translational
+research infrastructure as a fellow with the Pandemic Preparedness Hub at
+Stanford Medicine.
+
+In 2023, Matthew received the Cognitive Science Society Conference’s Diversity
+and Social Inequality Award for demonstrating the practical importance of
+minority groups in accelerating public health diffusion, showing that their
+increased visibility often positions them as effective community educators.
+
+He has developed and taught courses in quantitative social science at the
+Stanford Doerr School of Sustainability. Matthew holds a PhD in Cognitive and
+Information Sciences from the University of California, Merced (2021), an MS in
+Applied Physics from Rice University, and a dual BS in Mathematics and Physics
+from Syracuse University.
