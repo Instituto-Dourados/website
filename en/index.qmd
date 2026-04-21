@@ -30,7 +30,7 @@ In response, we developed a new educational and research exchange
 program to connect South and North American scientists, beginning with
 our two institutions, UFGD and Stanford University.
 
-### Our Project
+## Our Project
 
 The project builds on public health partnerships and research led by
 Prof. Simone Simionatto, her students, and colleagues at UFGD and
@@ -68,7 +68,7 @@ Loading…
 
 </iframe>
 
-### More on Project Goals
+### Project Goals
 
 We have two primary short-term goals for project outputs over the next
 few years:
@@ -109,34 +109,70 @@ working with us, or would like more information, please contact us:
 -   **2027 and beyond:** Sustain and expand the exchange program as
     opportunities allow.
 
-### Our Team
+## Our Team
 
-#### Project Leads
+
+### Founder-Directors
+
+The founders of Instituto Dourados are also currently its directors. They began
+working together as the two inaugural postdoctoral fellows
+to participate in the [Pandemic Preparedness Hub at Stanford
+Medicine](https://pandemichub.stanford.edu).
+
+They discovered they shared a
+common interest in Indigenous public health, but with vastly different technical
+approaches. 
+
+Together they decided that public health for
+marginalized communities needs to be aggressively community-based,
+multidisciplinary, and multilingual. 
+
+They founded Instituto Dourados
+to recruit, educate, and initiate a critical mass of researchers and policy
+makers who understand the biological and social complexity of promoting public
+health.
+
+{{< include /bio/IzabelaRezende-en.qmd >}}
+
+{{< include /bio/MatthewTurner-en.qmd >}}
+
+
+### Innovation and Research Interns
+
+Student internships are our primary method for building capacity in Indigenous
+public health for Dourados, Brazil, and beyond. Innovation Interns focus on
+expanding access to our educational public health resources for residents of
+Indigenous Reserves. Research Interns help create and evaluate new methods,
+technologies, and knowledge while learning the latest science and techniques
+from the Directors and [associted faculty
+leaders](#brazilian-faculty-leadership).
+
+
+{{< include /bio/MarianaAlcantara-en.qmd >}}
+
+
+### Brazilian Faculty Leadership
+
 
 -   Simone Simionatto — UFGD •
     [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
 -   Matheus de Carvalho Hernandez — UFGD •
     [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
--   Izabela Maurício de Rezende — Stanford University •
-    [LinkedIn](https://www.linkedin.com/in/izabela-rezende)
--   Matthew Turner — Stanford University • [Website](https://mat.phd)
 
-#### Student Leaders and Contributors
+### Student Leaders and Contributors
 
 -   Laís Albuquerque de Oliveira — UFGD •
     [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
 -   Caio Gustavo Simonelli — UFGD • [CNPq Online
     CV](http://lattes.cnpq.br/5480881995742161)
 
-### Foundational Support
+## Foundational Support
 
 Instituto Dourados was made possible through the support of Mrs. Jill
 Freidenrich, whose funding provided fellowships and research support for
-Rezende and Turner at the Pandemic Preparedness Hub at Stanford
-Medicine. This support enabled Rezende to initiate collaboration with
-Simionatto, with Turner joining soon after. It quickly became clear that
-this project was a strong fit for advancing the practical use of social
-science in epidemiology.
+Drs. Rezende and Turner at the Pandemic Preparedness Hub at Stanford
+Medicine. This support enabled Dr. Rezende to initiate collaboration with
+Prof. Simionatto, which Dr. Turner then joined. 
 
 <br>
 
@@ -144,4 +180,6 @@ science in epidemiology.
 Turner** at the Dourados Indigenous Reserve Hospital—the sign above us
 explains that the government health program SUS operates the hosopital to
 provide completely free health services to anyone who wants them, 
-and that all visitors have the right to quality care.](/imagens/clipboard-3055226108.png){fig-align="center" .lightbox}
+and that all visitors have the right to quality
+care.](/imagens/clipboard-3055226108.png){fig-align="center" .lightbox
+width=420px}

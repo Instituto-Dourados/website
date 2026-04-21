@@ -31,6 +31,33 @@ do Instituto Dourados.
 
 **O outro grupo irá avançar pesquisas interdisciplinares sobre como o comportamento social molda a disseminação de doenças**, contribuindo para uma melhor preparação para pandemias e a saúde pública em Dourados e na Reserva Indígena.
 
+
+### Nossa Equipe
+
+#### Os Diretadores
+
+{{< include /bio/IzabelaRezende-pt.qmd >}}
+
+<!-- {{< include /bios/MatthewTurner-pt.qmd >}} -->
+
+#### Os Estagiários
+
+{{< include /bio/MarianaAlcantara-pt.qmd}}
+
+#### Coordenação do Instituto
+
+-   Simone Simionatto — UFGD • [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
+-   Matheus de Carvalho Hernandez — UFGD • [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
+<!-- -   Izabela Maurício de Rezende — Stanford University • [LinkedIn](https://www.linkedin.com/in/izabela-rezende)
+-   Matthew Turner — Stanford University • [Website](https://mat.phd) -->
+
+#### Estudantes Líderes e Colaboradores
+
+-   Laís Albuquerque de Oliveira — UFGD • [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
+-   Caio Gustavo Simonelli — UFGD • [CNPq Online CV](http://lattes.cnpq.br/5480881995742161)
+
+### Mais Informações e Atualizações
+
 - ::: large-link
 Saiba mais como contribuir aqui: [Oportunidades](/pt/oportunidades.qmd).
 :::
