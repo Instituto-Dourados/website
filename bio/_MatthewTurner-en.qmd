@@ -1,19 +1,21 @@
 <h4 class=name> Dr. Matthew Adam Turner - Director of Infrastructure</h4>
 
-![](/bio/foto/MatthewTurner.png){.float-left width=120px style="margin-top:2rem;
-margin-bottom:3rem;"}
+![](/bio/foto/MatthewTurner.png){.float-left width=120px style="margin-top:1rem;
+margin-bottom:2rem;"}
 
 Matthew is a quantitative social scientist accelerating translational research
 to make sustainable societies the more attractive and viable choice.
 Sustainability includes public health: a healthy population is a prerequisite
-for participation in sustainable systems. He began building this translational
-research infrastructure as a fellow with the Pandemic Preparedness Hub at
-Stanford Medicine.
+for participation in sustainable systems. He began building this infrastructure
+as a fellow with the Pandemic Preparedness Hub at Stanford Medicine, following
+the lead of Instituto Dourados co-founder and co-director, Dr. Izabela Rezende.
+Izabela initiated a collaboration with one of our Brazilian Faculty Leaders,
+Prof. Simone Simionatto.
 
 In 2023, Matthew received the Cognitive Science Society Conference’s Diversity
-and Social Inequality Award for demonstrating the practical importance of
-minority groups in accelerating public health diffusion, showing that their
-increased visibility often positions them as effective community educators.
+and Social Inequality Award for demonstrating the practical advantage of
+focusing education efforts in minority groups to accelerate information
+diffusion.
 
 He has developed and taught courses in quantitative social science at the
 Stanford Doerr School of Sustainability. Matthew holds a PhD in Cognitive and

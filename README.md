@@ -34,12 +34,16 @@ languages:
     dir: en
 ```
 
-### QR Code Website and Contact Page
-
-Oftentimes at meetings we want to share our contact information and website so
-colleagues can learn more about our work or contact us. 
 
 ## Use This as a Template!
 
-To use this as a template, simply go through the `_quarto.yml` to swap out
-Instituto Dourados branding for yours. For example, 
+I would be thrilled for others to use this as a template for their own
+innovative institutional websites. To use this as a template, simply swap out
+our Instituto Dourados information and branding for your own, starting with the
+name of the organization in [`_quarto.yml`](/_quarto.yml). Then try changing the
+content in the Portuguese Home page (Início) in
+[`pt/index.qmd`](pt/index.qmd). For changing font colors or changing the
+background image in the header, modify the "cascading style sheet" that
+specifies web site styling, [`styles.scss`](/styles.scss).
+
+

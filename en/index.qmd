@@ -1,9 +1,6 @@
 ---
 title: Home
 lang: en
-editor: 
-  markdown: 
-    wrap: 80
 ---
 
 ::: {#index-subtitle}

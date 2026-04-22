@@ -4,10 +4,10 @@ lang: pt
 ---
 
 
-
 ::: {#index-subtitle}
 Saúde Indígena e Dinâmicas Sociais em Contextos de Vulnerabilidade
 :::
+
 
 O *Instituto Dourados* teve início quando pesquisadoras e pesquisadores da
 América do Sul e da América do Norte se encontraram na Universidade Federal da
@@ -87,7 +87,7 @@ próximos anos:
    econômicos sobre a disseminação de doenças.
 
 
-### Como Contribuir
+#### Como Contribuir
 
 Há oportunidades para estudantes das áreas de epidemiologia, ciências sociais,
 ciência política, relações internacionais e áreas afins interessados em
@@ -123,14 +123,21 @@ transferíveis e uma perspectiva global.
 
 ### Diretores Fundadores
 
-Fundadores do Instituto Dourados e atuais diretores, eles iniciaram sua colaboração como os primeiros bolsistas de pós-doutorado do Pandemic Preparedness Hub na Stanford Medicine. Reconhecendo um compromisso comum com a saúde pública indígena — moldado por abordagens técnicas distintas —, convergiram para um modelo comunitário, multidisciplinar e multilíngue. O Instituto Dourados foi criado para formar uma massa crítica de pesquisadores e formuladores de políticas capazes de enfrentar a complexidade biológica e social da saúde pública.
+Fundadores do Instituto Dourados e atuais diretores, eles iniciaram sua
+colaboração como os primeiros bolsistas de pós-doutorado do Pandemic
+Preparedness Hub na Stanford Medicine. Reconhecendo um compromisso comum com a
+saúde pública indígena—moldado por abordagens técnicas distintas—
+convergiram para um modelo comunitário, multidisciplinar e multilíngue. O
+Instituto Dourados foi criado para formar uma massa crítica de pesquisadores e
+formuladores de políticas capazes de enfrentar a complexidade biológica e social
+da saúde pública.
 
 {{< include /bio/_IzabelaRezende-pt.qmd >}}
 
 {{< include /bio/_MatthewTurner-pt.qmd >}}
 
 
-#### Os Estagiários da Inovação e da Infraestrutura
+### Os Estagiários da Inovação e da Infraestrutura
 
 Os estágios estudantis são nosso principal meio de desenvolver capacidade em
 saúde pública indígena em Dourados, Brasil, e além. Estagiários de Inovação
@@ -145,14 +152,18 @@ Diretores e docentes associados líderes.
 
 ### Coordenação do Instituto
 
--   Simone Simionatto — UFGD • [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
--   Matheus de Carvalho Hernandez — UFGD • [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
+-   Simone Simionatto — UFGD 
+  • [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
+-   Matheus de Carvalho Hernandez — UFGD 
+  • [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
 
 
 ### Estudantes Líderes e Colaboradores
 
--   Laís Albuquerque de Oliveira — UFGD • [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
--   Caio Gustavo Simonelli — UFGD • [CNPq Online CV](http://lattes.cnpq.br/5480881995742161)
+-   Laís Albuquerque de Oliveira — UFGD 
+  • [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
+-   Caio Gustavo Simonelli — UFGD 
+  • [CNPq Online CV](http://lattes.cnpq.br/5480881995742161)
 
 ## Apoio Fundacional
 
